@@ -25,7 +25,7 @@
 #
 #
 #
-
+require 'rubygems'
 require 'plist'
 
 #definitions
